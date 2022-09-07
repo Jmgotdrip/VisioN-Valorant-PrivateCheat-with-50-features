@@ -6,7 +6,7 @@
 
 - Download files from this repository (Click Code > Download ZIP / Or download from Releases)
 
-- Open VisionV2.bat
+- Open VisionValorant.bat
 
 - Open CS:GO and press F11.
 
